@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: darkcyan;
+}
+.effect{
+    font-size: 45px;
+    color: white;
+    font-weight: bolder;
+}
